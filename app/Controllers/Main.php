@@ -9,7 +9,7 @@ class Main extends BaseController
     
     public function logout()
 	{
-		return view('welcome_message');
+		return view('logout');
 	}
 
 	//--------------------------------------------------------------------
